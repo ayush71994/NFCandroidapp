@@ -1,0 +1,1 @@
+This is android app that can read a nfc card and check its validity..

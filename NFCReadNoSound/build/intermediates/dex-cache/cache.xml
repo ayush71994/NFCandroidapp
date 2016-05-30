@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ayush Agarwal\AndroidStudioProjects\NFCReadNoSound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dc4ad74ce8d9face35406d442c2e886f474c7c58">
+        <dex dex="C:\Users\Ayush Agarwal\AndroidStudioProjects\NFCReadNoSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8aac905cefdc9eba0d8950b34c3b16753c4ebfcc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ayush Agarwal\AndroidStudioProjects\NFCReadNoSound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="914138c833201e69f612f6db7c404e674db35d8b">
+        <dex dex="C:\Users\Ayush Agarwal\AndroidStudioProjects\NFCReadNoSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_95b444b6876b5d955657ab2b637a15583337ed8c\classes.dex" />
+    </item>
+
+</items>

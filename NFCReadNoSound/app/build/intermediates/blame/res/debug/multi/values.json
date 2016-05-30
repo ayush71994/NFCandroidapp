@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 52,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 52,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 52,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 52,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 58,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 58,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "C:\\Users\\Ayush Agarwal\\AndroidStudioProjects\\NFCReadNoSound\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]
